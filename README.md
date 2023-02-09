@@ -1,1 +1,3 @@
-# nextjs-blog-theme
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Complex_picture.svg/1200px-Complex_picture.svg.png)
+
+Un programme qui permet de manipuler des nombres complexes, qui sont des nombres de la forme a + bi, où a et b sont des nombres réels et i est la racine carrée de -1. Ce programme pourrait permettre des opérations mathématiques courantes sur les nombres complexes, comme l'addition, la soustraction, la multiplication et la division, ainsi que des fonctions plus avancées comme la racine carrée ou la puissance. Il pourrait également inclure des fonctions pour afficher les nombres complexes sous différentes formes, comme la forme trigonométrique ou exponentielle. Le projet pourrait être utilisé pour des applications dans les domaines de la physique, de l'électronique, de la cryptographie, etc.
